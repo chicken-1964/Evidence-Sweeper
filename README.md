@@ -202,4 +202,4 @@ This repository serves as the official landing page for Evidence Sweeper. The so
 **Get the most recent version of Evidence Sweeper today!**
 
 ---
-**Last updated:** 2026-11-13 02:19:49 UTC
+**Last updated:** 2026-11-13 10:25:03 UTC
